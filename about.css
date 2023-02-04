@@ -32,6 +32,7 @@ p{
 img{
     width: 200px;
     height: 200px;
+    border-radius : 50%
 }  
 #menu {
     z-index: 2;
